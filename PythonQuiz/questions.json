@@ -1,0 +1,38 @@
+{
+    "What is the print function in Python?": {
+        "A": "It prints the type of a variable",
+        "B": "It prints the output of a function or a variable",
+        "C": "It asks for user input",
+        "Correct": "B"
+    },
+    "What is a variable in Python?": {
+        "A": "A way to store values in a list",
+        "B": "A way to store values in a dictionary",
+        "C": "A way to store a single value",
+        "Correct": "C"
+    },
+    "What is a list in Python?": {
+        "A": "A collection of key-value pairs",
+        "B": "A collection of values that can be of any data type",
+        "C": "A way to store a single value",
+        "Correct": "B"
+    },
+    "What is a dictionary in Python?": {
+        "A": "A collection of values that can be of any data type",
+        "B": "A way to store a single value",
+        "C": "A collection of key-value pairs",
+        "Correct": "C"
+    },
+    "What is a for loop in Python?": {
+        "A": "A way to iterate over a sequence of values",
+        "B": "A way to store values in a list",
+        "C": "A way to store values in a dictionary",
+        "Correct": "A"
+    },
+    "What is an if statement in Python?": {
+        "A": "A way to iterate over a sequence of values",
+        "B": "A way to execute a block of code if a condition is true",
+        "C": "A way to store values in a dictionary",
+        "Correct": "B"
+    }
+}
