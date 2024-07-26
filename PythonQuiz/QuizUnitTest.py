@@ -1,6 +1,6 @@
 import unittest
 from unittest.mock import patch
-from quiz5 import load_questions, ask_question, check_answer, display_score
+from Quiz import load_questions, ask_question, check_answer, display_score
 import json
 import os
 
